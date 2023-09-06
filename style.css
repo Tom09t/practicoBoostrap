@@ -1,0 +1,27 @@
+
+.card-mia{
+    margin: 30px auto;
+    width: 800px;
+    height: 500px;
+    display: flex;
+    outline: black solid 1px;
+    border-radius: 10px;
+}
+.conteiner_destacados h2{
+    padding: 20px;
+}
+.card-mia img{
+    object-fit: contain;
+    height: 500px;
+    border-radius: 10px;
+}
+.card__container-info{
+    padding: 60px 60px 20px 0px;
+}
+.transparente{
+    color: #505050;
+}
+.verde{
+    color: #1a1;
+    font-weight: bold;
+}
